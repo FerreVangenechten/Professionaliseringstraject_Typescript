@@ -1,0 +1,2 @@
+document.getElementById("num1")!; --> de ! wilt zeggen dat we zeker weten dat het altijd een element vind en nooit null is
+add(+input1.value, +input2.value); --> de + converts to a number
